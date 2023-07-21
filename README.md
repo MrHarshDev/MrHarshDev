@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter app development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MrToxicDeveloper](https://github.com/MrToxicDeveloper)
+- 👨‍💻 All of my projects are available at [https://github.com/MrToxicDeveloper](https://github.com/MrHarshDev)
 
 - 📫 How to reach me **mrdeveloper169@gmail.com**
 
